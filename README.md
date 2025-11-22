@@ -60,7 +60,7 @@ This program simulates a parking management system. It handles the entire flow o
 6.  **Change Username/Password:** Select `[4]` to change user login credentials.
 7.  **Exit:** Select `[5]` to terminate the program.
 
-## 👤 Authors
+## Authors
 
 **BS Information Systems | CC103 - Computer Programming 1** **Bulacan State University (BulSU)**
 
